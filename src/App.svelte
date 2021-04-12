@@ -49,7 +49,10 @@
 
 <main>
   <h1>Simple Option Pricer</h1>
-
+  <p>
+    Source code on
+    <a href="https://github.com/jpz/simple-option-pricer">Github</a>
+  </p>
   <div class="parametergrid">
 
     <div>Stock Price:</div>
