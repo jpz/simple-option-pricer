@@ -1,3 +1,3 @@
 # Simple Option Pricer
 
-Just a quick demo project of a reactive option pricing application, written in [Svelte](href="https://svelte.dev")
+Just a quick demo project of a reactive option pricing application, written in [Svelte](href="https://svelte.dev"), online at http://optionpricer.zavaglia.org/
